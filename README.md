@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" />
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="zaini34" />
 </p>
 <h1 align="center">👋 Zain Ali</h1>
 <h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 Computer Science</h3>
@@ -7,7 +7,7 @@
 <p align="center">
 I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. I build user-friendly, high-performance web applications and excel at simplifying complex problems. Known for strong teamwork and clear communication, I bring innovative ideas to each project, striving to exceed user expectations with efficient, high-quality solutions. 
 <br/>
-  <img src="https://komarev.com/ghpvc/?username=HussainAnjan5&label=Profile%20views&color=0e75b6&style=flat"  align="end" alt="HussainAnjan5" />
+  <img src="https://komarev.com/ghpvc/?username=zaini34&label=Profile%20views&color=0e75b6&style=flat"  align="end" alt="zaini34" />
 </p>
 
 ---
@@ -39,8 +39,8 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 ### 📬 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/zain-ali-6b1183275/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100031074960679" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/HussainAnjan5/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zain-ali-6b1183275/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaini34/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100031074960679" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zaini34/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/12_zain_ali/profilecard/?igsh=YXJlNHJhbWNwa21t" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjan._.hussain/" height="30" width="40" /></a>
 </p>
 
@@ -51,11 +51,11 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainAnjan5&show_icons=true&locale=en&layout=compact" alt="HussainAnjan5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaini34&show_icons=true&locale=en&layout=compact" alt="zaini34" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HussainAnjan5&show_icons=true&locale=en" alt="HussainAnjan5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaini34&show_icons=true&locale=en" alt="zaini34" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAnjan5&" alt="HussainAnjan5" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaini34&" alt="zaini34" /></p> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
