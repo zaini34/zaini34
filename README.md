@@ -23,7 +23,7 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 
 ### 👨‍💻 Projects
 
-- **Visit My Portfolio** - [View Here](https://hussain-portfolio-app.vercel.app/)
+- **Visit My Portfolio** - [View Here](https://bashful-decision.surge.sh/)
 - **Netflix Clone** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
 
 ---
@@ -39,9 +39,9 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 ### 📬 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/HussainAnjan5/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/HussainAnjan5/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anjan._.hussain/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjan._.hussain/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zain-ali-6b1183275/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/HussainAnjan5/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100031074960679" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/HussainAnjan5/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/12_zain_ali/profilecard/?igsh=YXJlNHJhbWNwa21t" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjan._.hussain/" height="30" width="40" /></a>
 </p>
 
 ---
